@@ -1,0 +1,28 @@
+.card-content{
+  padding: 0 10px;
+  margin: 5px 0;
+  background-color: gray;
+  
+}
+.card-box{
+  padding: 0px 10px;
+}
+
+.content-row{
+  display: inline-block;
+  width: 50%;
+}
+.card-wording{
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 10px;
+  width: 50%;
+}
+.energy {
+  width: 100%;
+  background-color: #ddd;
+
+}
+/* .percent{
+  display: inline;
+} */
